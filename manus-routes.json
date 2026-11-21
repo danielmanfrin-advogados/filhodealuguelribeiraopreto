@@ -1,0 +1,56 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Filho de Aluguel em Ribeirão Preto"
+    },
+    {
+      "path": "/servicos/ajuda-com-celular-e-aplicativos/",
+      "title": "Ajuda com celular e aplicativos"
+    },
+    {
+      "path": "/servicos/configuracao-de-tv-e-eletronicos/",
+      "title": "Configuração de TV e eletrônicos"
+    },
+    {
+      "path": "/servicos/acompanhamento-em-tarefas-e-compromissos/",
+      "title": "Acompanhamento em tarefas e compromissos"
+    },
+    {
+      "path": "/bairros/centro/",
+      "title": "Centro"
+    },
+    {
+      "path": "/bairros/jardim-botanico/",
+      "title": "Jardim Botânico"
+    },
+    {
+      "path": "/bairros/nova-alianca/",
+      "title": "Nova Aliança"
+    },
+    {
+      "path": "/bairros/vila-tiberio/",
+      "title": "Vila Tibério"
+    },
+    {
+      "path": "/bairros/bonfim-paulista/",
+      "title": "Bonfim Paulista"
+    },
+    {
+      "path": "/bairros/campos-eliseos/",
+      "title": "Campos Elíseos"
+    },
+    {
+      "path": "/sobre/",
+      "title": "Sobre"
+    },
+    {
+      "path": "/perguntas-frequentes/",
+      "title": "Perguntas frequentes"
+    },
+    {
+      "path": "/politica-de-privacidade/",
+      "title": "Política de privacidade"
+    }
+  ]
+}

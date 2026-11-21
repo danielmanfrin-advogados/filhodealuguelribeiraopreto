@@ -1,0 +1,31 @@
+DOMINIO_BASE = "https://filhodealuguelribeiraopreto.vercel.app"
+
+PORTAL FILHO DE ALUGUEL EM RIBEIRÃO PRETO
+
+O site é um conjunto estático de páginas HTML, CSS e JavaScript puro, pronto para ser enviado ao GitHub e importado na Vercel. Não há dependências de npm. Na Vercel, use Framework Preset: Other. O comando `npm run build` copia os arquivos públicos para `dist/`, que é a pasta de saída definida em `vercel.json`.
+
+ANTES DE DIVULGAR
+
+1. Abra `config.js` e troque `whatsapp` e `telefone` pelos números reais, com DDI 55, DDD e apenas dígitos. Os botões de todas as páginas usam esses campos. Troque também a mensagem padrão se desejar.
+2. O endereço do Apps Script já está em `config.js`. Para trocar o domínio, substitua `https://filhodealuguelribeiraopreto.vercel.app` nos canonical, JSON-LD, Open Graph, `sitemap.xml`, `robots.txt` e `llms.txt`, além desta variável `DOMINIO_BASE`, pelo domínio definitivo.
+3. Confira com o prestador quais atividades ele realmente oferece, onde atende e quais são os limites do apoio. O site não representa fotos, equipe, endereço ou cadastro do prestador.
+
+REGISTRO DE CLIQUES NA PLANILHA
+
+O Apps Script recebido está em `apps-script/Code.gs`. Para instalar ou atualizar: abra a planilha Google, escolha Extensões > Apps Script, substitua o código pelo conteúdo de `apps-script/Code.gs`, salve e execute `setup()` uma vez. Depois escolha Implantar > Gerenciar implantações > editar a implantação existente > Nova versão > Implantar, com acesso “Qualquer pessoa”. A URL `/exec` existente continua a mesma. O script cria ou prepara as abas de registro e resumo. Para um relatório por site, escolha Inserir > Tabela dinâmica, use Site nas linhas e Ação/Botão como valor contado; os cabeçalhos atuais usam a coluna “Botão”.
+
+GOOGLE SEARCH CONSOLE
+
+Adicione e verifique o domínio ou prefixo de URL no Google Search Console, seguindo as instruções de propriedade apresentadas pelo Google. Depois de publicar, envie `https://filhodealuguelribeiraopreto.vercel.app/sitemap.xml` na área Sitemaps. Confirme que a URL e o sitemap correspondem ao domínio publicado.
+
+IMAGENS
+
+A geração automática de fotos não foi possível nesta execução porque o limite diário de imagens da conta foi atingido. Os locais das fotos permanecem como caixas neutras no tom da paleta para evitar links quebrados. Os prompts para produzir `hero.jpg`, `sobre.jpg` e as três fotos dos serviços estão em `img/PROMPTS.txt`. Quando houver imagens disponíveis, substitua as caixas por JPG usando os nomes indicados no arquivo de prompts, mantendo conteúdo ilustrativo e alt neutro. Não descreva as imagens como fotos do prestador.
+
+PERFIL DA EMPRESA NO GOOGLE
+
+Considere criar um Perfil da Empresa no Google apenas quando houver um prestador com endereço real e elegível para esse tipo de perfil. Não invente endereço para o portal.
+
+LIMITES DO SERVIÇO
+
+O acompanhamento não significa atendimento clínico, transporte especializado, aconselhamento financeiro ou autorização para operar contas. A pessoa deve manter controle de senhas, códigos, cartões e decisões. Valores, disponibilidade e formas de pagamento são confirmados pelo prestador.

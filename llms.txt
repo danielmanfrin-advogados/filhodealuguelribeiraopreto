@@ -1,0 +1,40 @@
+# Filho de Aluguel em Ribeirão Preto
+
+Portal informativo de apoio cotidiano em Ribeirão Preto, com contato por WhatsApp ou telefone para consultar prestadores parceiros sobre tarefas e tecnologia.
+
+## Serviços
+- [Ajuda com celular e aplicativos](https://filhodealuguelribeiraopreto.vercel.app/servicos/ajuda-com-celular-e-aplicativos/): Orientação para usar funções do celular e aplicativos do dia a dia, no ritmo da pessoa e com explicações simples.
+- [Configuração de TV e eletrônicos](https://filhodealuguelribeiraopreto.vercel.app/servicos/configuracao-de-tv-e-eletronicos/): Apoio para entender controles, conexões e ajustes cotidianos de TV e outros eletrônicos domésticos.
+- [Acompanhamento em tarefas e compromissos](https://filhodealuguelribeiraopreto.vercel.app/servicos/acompanhamento-em-tarefas-e-compromissos/): Companhia em tarefas cotidianas e compromissos combinados, como compras e deslocamentos, conforme a necessidade informada.
+
+## Bairros
+- [Centro](https://filhodealuguelribeiraopreto.vercel.app/bairros/centro/): página local de apoio cotidiano e informações para conversar sobre a tarefa.
+- [Jardim Botânico](https://filhodealuguelribeiraopreto.vercel.app/bairros/jardim-botanico/): página local de apoio cotidiano e informações para conversar sobre a tarefa.
+- [Nova Aliança](https://filhodealuguelribeiraopreto.vercel.app/bairros/nova-alianca/): página local de apoio cotidiano e informações para conversar sobre a tarefa.
+- [Vila Tibério](https://filhodealuguelribeiraopreto.vercel.app/bairros/vila-tiberio/): página local de apoio cotidiano e informações para conversar sobre a tarefa.
+- [Bonfim Paulista](https://filhodealuguelribeiraopreto.vercel.app/bairros/bonfim-paulista/): página local de apoio cotidiano e informações para conversar sobre a tarefa.
+- [Campos Elíseos](https://filhodealuguelribeiraopreto.vercel.app/bairros/campos-eliseos/): página local de apoio cotidiano e informações para conversar sobre a tarefa.
+
+## Informações institucionais
+- [Sobre](https://filhodealuguelribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://filhodealuguelribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://filhodealuguelribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas e respostas
+### O que significa “filho de aluguel”?
+É uma expressão usada para descrever apoio prático e companhia em tarefas do cotidiano, como ajuda com tecnologia ou acompanhamento combinado. O que está incluído precisa ser acertado diretamente com o prestador. A expressão não significa atendimento clínico, aconselhamento financeiro ou autorização para decidir pela pessoa.
+
+### Que tipos de ajuda podem ser combinados?
+Pode-se conversar sobre orientação básica com celular e aplicativos, configuração cotidiana de TV e eletrônicos e acompanhamento em tarefas ou compromissos. O prestador confirma se atende à necessidade específica. Reparo técnico especializado, cuidado clínico e outros serviços precisam ser avaliados com o profissional apropriado.
+
+### O acompanhamento pode ser até uma consulta médica?
+A companhia até um compromisso pode ser combinada com o prestador. O acompanhamento não inclui consulta, avaliação, procedimento, decisão clínica nem administração de medicamentos. Essas atividades cabem aos profissionais de saúde e à própria pessoa, com o apoio que ela autorizar.
+
+### O prestador pode ir ao banco ou fazer pagamentos?
+Acompanhamento até uma agência pode ser conversado. A pessoa deve manter sob seu controle cartões, senhas, códigos, dinheiro e decisões financeiras. Não envie credenciais por mensagem e confirme diretamente o que será feito, sem autorizar movimentações que não deseja.
+
+### Como pedir um orçamento?
+Clique em WhatsApp ou Ligue agora e informe o bairro, o tipo de ajuda, o dia ou período desejado e os detalhes práticos necessários. Para tecnologia, diga o aparelho e a dificuldade. Para acompanhamento, descreva a tarefa e qualquer necessidade de acessibilidade. O prestador informa valores e condições no atendimento.
+
+## Aviso
+Este site é um portal de contato e não presta o serviço diretamente. O atendimento é feito por prestadores parceiros da região. Valores, prazos e formas de pagamento são informados pelo prestador no atendimento.

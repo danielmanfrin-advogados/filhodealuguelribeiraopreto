@@ -1,0 +1,13 @@
+FOTOS ILUSTRATIVAS A GERAR QUANDO A COTA ESTIVER DISPONÍVEL
+
+Estilo comum: foto realista de celular, amadora e sem produção; luz natural, leve imperfeição, ambiente cotidiano no Brasil; sem texto, logotipos, marcas, placas legíveis ou rostos em destaque. Evitar pose de catálogo, estúdio e qualquer aparência de propaganda. Imagens ilustrativas, não representam prestador, equipe ou veículo.
+
+hero.jpg, horizontal 1600x900: Adulto ajudando uma pessoa idosa brasileira a usar o celular em uma sala de casa simples. Composição larga com as pessoas mais à direita e área mais limpa à esquerda para texto sobreposto. Interação natural, rostos sem destaque, foco no apoio cotidiano. Sem telas legíveis, marcas ou elementos médicos.
+
+sobre.jpg, 4:3, 1000x750: Duas pessoas adultas, uma idosa, conversando e revisando uma lista de compras em uma mesa de cozinha. Mãos e lista visíveis, enquadramento cotidiano, luz de janela, rostos discretos. Sem escrita legível ou logotipos.
+
+ajuda-com-celular-e-aplicativos.jpg, 4:3, 1000x750: Apoio básico a uma pessoa idosa no uso de um smartphone em uma mesa de casa. Foco nas mãos e no aparelho sem tela legível, interação respeitosa e natural.
+
+configuracao-de-tv-e-eletronicos.jpg, 4:3, 1000x750: Adulto explicando o controle remoto de uma televisão para uma pessoa idosa em uma sala doméstica. TV com tela neutra desfocada, pessoas vistas de lado ou de costas, sem marcas.
+
+acompanhamento-em-tarefas-e-compromissos.jpg, 4:3, 1000x750: Adulto caminhando ao lado de pessoa idosa em uma calçada residencial comum no Brasil, ambos em ritmo tranquilo, vistos de lado ou de costas, sem ponto turístico identificável. Foto espontânea, sem uniforme médico.
