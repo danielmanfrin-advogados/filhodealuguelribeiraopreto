@@ -20,7 +20,7 @@ Adicione e verifique o domínio ou prefixo de URL no Google Search Console, segu
 
 IMAGENS
 
-A geração automática de fotos não foi possível nesta execução porque o limite diário de imagens da conta foi atingido. Os locais das fotos permanecem como caixas neutras no tom da paleta para evitar links quebrados. Os prompts para produzir `hero.jpg`, `sobre.jpg` e as três fotos dos serviços estão em `img/PROMPTS.txt`. Quando houver imagens disponíveis, substitua as caixas por JPG usando os nomes indicados no arquivo de prompts, mantendo conteúdo ilustrativo e alt neutro. Não descreva as imagens como fotos do prestador.
+As cinco fotos ilustrativas foram geradas e estão em `img/`: `hero.jpg` (1600×900), `sobre.jpg` e as três imagens de serviço (1000×750). O build estático copia esses arquivos para `dist/img/` e as páginas usam versões otimizadas. São imagens geradas por IA para representar situações cotidianas; não representam o prestador, sua equipe, veículo, endereço ou clientes reais. Os prompts usados permanecem em `img/PROMPTS.txt`.
 
 PERFIL DA EMPRESA NO GOOGLE
 

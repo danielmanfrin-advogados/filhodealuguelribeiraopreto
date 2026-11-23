@@ -1,6 +1,6 @@
-FOTOS ILUSTRATIVAS A GERAR QUANDO A COTA ESTIVER DISPONÍVEL
+PROMPTS DAS CINCO FOTOS ILUSTRATIVAS GERADAS
 
-Estilo comum: foto realista de celular, amadora e sem produção; luz natural, leve imperfeição, ambiente cotidiano no Brasil; sem texto, logotipos, marcas, placas legíveis ou rostos em destaque. Evitar pose de catálogo, estúdio e qualquer aparência de propaganda. Imagens ilustrativas, não representam prestador, equipe ou veículo.
+As imagens finais estão em `img/` e são usadas na home e nas páginas relacionadas. Estilo comum: foto realista de celular, amadora e sem produção; luz natural, leve imperfeição, ambiente cotidiano no Brasil; sem texto, logotipos, marcas, placas legíveis ou rostos em destaque. Evitar pose de catálogo, estúdio e qualquer aparência de propaganda. Imagens ilustrativas, não representam prestador, equipe ou veículo.
 
 hero.jpg, horizontal 1600x900: Adulto ajudando uma pessoa idosa brasileira a usar o celular em uma sala de casa simples. Composição larga com as pessoas mais à direita e área mais limpa à esquerda para texto sobreposto. Interação natural, rostos sem destaque, foco no apoio cotidiano. Sem telas legíveis, marcas ou elementos médicos.
 
